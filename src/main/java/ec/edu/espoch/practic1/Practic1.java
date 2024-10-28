@@ -10,8 +10,9 @@ import java.util.Scanner;
  * @author USUARIO
  */
 public class Practic1 {
-
+ 
     public static void main(String[] args) {
+        System.out.println("este es un mensaje nuevo");
         System.out.println("Hello World!");
         Scanner e = new Scanner(System.in);
         System.out.println("Ingresa la edad");
